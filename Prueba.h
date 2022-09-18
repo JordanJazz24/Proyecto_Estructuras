@@ -1,0 +1,14 @@
+//
+// Created by 50683 on 9/18/2022.
+//
+
+#ifndef PROYECTO_ESTRUCTURAS_PRUEBA_H
+#define PROYECTO_ESTRUCTURAS_PRUEBA_H
+
+
+class Prueba {
+
+};
+
+
+#endif //PROYECTO_ESTRUCTURAS_PRUEBA_H
