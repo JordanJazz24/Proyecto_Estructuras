@@ -1,0 +1,14 @@
+//
+// Created by 50683 on 9/18/2022.
+//
+
+#ifndef PROYECTO_ESTRUCTURAS_NODO_H
+#define PROYECTO_ESTRUCTURAS_NODO_H
+
+
+class Nodo {
+
+};
+
+
+#endif //PROYECTO_ESTRUCTURAS_NODO_H
