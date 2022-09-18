@@ -3,4 +3,4 @@ project(Proyecto_Estructuras)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Proyecto_Estructuras main.cpp)
+add_executable(Proyecto_Estructuras main.cpp Integer.cpp Integer.h)

@@ -1,0 +1,14 @@
+//
+// Created by 50683 on 9/18/2022.
+//
+
+#ifndef PROYECTO_ESTRUCTURAS_INTEGER_H
+#define PROYECTO_ESTRUCTURAS_INTEGER_H
+
+
+class Integer {
+
+};
+
+
+#endif //PROYECTO_ESTRUCTURAS_INTEGER_H
