@@ -8,6 +8,25 @@
 
 class Nodo {
 
+private:
+
+    int* data;
+    Nodo* previous;
+    Nodo* next;
+
+public:
+
+    Nodo();
+    ~Nodo();
+    Nodo* getPrevious();
+    Nodo* getNext();
+    int* getData();
+    void setPrevious(Nodo*);
+    void setNext(Nodo*);
+    void setData(int*);
+
+
+
 };
 
 
