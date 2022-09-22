@@ -3,4 +3,4 @@ project(Proyecto_Estructuras)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Proyecto_Estructuras main.cpp Integer.cpp Integer.h Lista.h Lista.cpp Nodo.h Nodo.cpp Array.h Array.cpp)
+add_executable(Proyecto_Estructuras main.cpp Integer.cpp Integer.h Nodo.cpp Nodo.h Lista.cpp Lista.h Prueba.cpp Prueba.h)
